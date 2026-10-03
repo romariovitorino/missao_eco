@@ -1,6 +1,6 @@
 # Missão Eco Ji-Paraná
 
-MVP de educação ambiental para o público universitário: 12 missões em campus Afya Ji-Paraná, bairro, rios Machado e Urupá e áreas verdes. O campus é referência de contexto, sem parceria institucional presumida. Cenários e mapa são fictícios e ilustrativos.
+MVP de educação ambiental para o público universitário: 12 missões na faculdade, bairro, rios Machado e Urupá e áreas verdes. O campus é referência de contexto, sem parceria institucional presumida. Cenários e mapa são fictícios e ilustrativos.
 
 ## Desenvolvimento local
 

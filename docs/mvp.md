@@ -6,7 +6,7 @@ Apresentar situações do cotidiano universitário e urbano para discutir consum
 ## Ambientes e objetivos
 | Ambiente | Objetivo |
 | --- | --- |
-| Campus Afya Ji-Paraná | Identificar hábitos de consumo e propor melhorias compartilhadas. |
+| faculdade| Identificar hábitos de consumo e propor melhorias compartilhadas. |
 | Bairro | Repensar compras e reconhecer diferentes caminhos de destinação. |
 | Machado e Urupá | Reconhecer prevenção do descarte e planejamento seguro de ações coletivas. |
 | Áreas verdes | Respeitar fauna e reconhecer a necessidade de orientação para intervenções. |
@@ -17,7 +17,7 @@ Apresentar situações do cotidiano universitário e urbano para discutir consum
 Perguntas: o que depende de hábitos e o que exige infraestrutura? Como verificar uma orientação na realidade local? Que pequena ação seria viável e como acompanhar seu resultado?
 
 ## Limites
-Não há geolocalização, diagnóstico ambiental, comprovação de atividades externas ou certificação. Não indica locais de coleta sem confirmação. Não usar logo Afya ou afirmar parceria sem autorização. Uso futuro em extensão ou estágio em docência depende do planejamento e aceite acadêmico correspondente.
+Não há geolocalização, diagnóstico ambiental, comprovação de atividades externas ou certificação. Não indica locais de coleta sem confirmação. Uso futuro em extensão ou estágio em docência depende do planejamento e aceite acadêmico correspondente.
 
 ## Evolução
 Turmas e códigos, painel do educador, atividades colaborativas e instrumentos de acompanhamento podem ser avaliados após um piloto. Avatares atuais usam símbolos; artes personalizadas podem ser adicionadas mantendo rótulos e controles acessíveis. Mapa atual é esquemático, sem correspondência cartográfica.

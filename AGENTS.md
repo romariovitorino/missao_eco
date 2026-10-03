@@ -4,8 +4,8 @@
 MVP universitário de educação ambiental com 12 missões em quatro ambientes: campus Afya Ji-Paraná, bairro, rios Machado e Urupá e áreas verdes. Entrada por apelido e avatar, sem e-mail obrigatório. Progresso local, conquistas, reflexão e resumo imprimível. Turmas, contas, ranking e certificados institucionais ficam para outra fase.
 
 ## Conteúdo e identidade
-- Cenários fictícios e educativos: não atribuir problemas reais à Afya ou a locais da cidade.
-- Não usar a marca institucional da Afya sem autorização. Preservar a logo Missão Eco.
+- Cenários fictícios e educativos: não atribuir problemas reais à faculdade ou a locais da cidade.
+- Não usar a marca institucional da faculdade sem autorização. Preservar a logo Missão Eco.
 - Mapas são ilustrativos, sem pretensão cartográfica.
 - Fontes ambientais oficiais com links e data de consulta; confirmar serviços locais antes de indicá-los.
 - Nunca incentivar entrada em rios, contato com resíduos perigosos, captura de animais ou ações sem orientação.
