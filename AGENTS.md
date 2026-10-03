@@ -12,7 +12,7 @@ MVP universitário de educação ambiental com 12 missões em quatro ambientes: 
 
 ## Gamificação
 - 10 pontos por missão correta na primeira tentativa; máximo 120.
-- Tentativas ilimitadas. Missão concluída após resposta adequada, mesmo sem pontos.
+- Uma resposta por missão. Missão concluída após responder, mesmo com erro e sem pontos; feedback seguido de avanço, sem nova tentativa.
 - Distintivo por ambiente concluído; conquista final por 12 missões concluídas.
 - Conclusão não comprova mudança de comportamento nem mede impacto ambiental real.
 

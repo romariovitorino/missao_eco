@@ -19,7 +19,7 @@ Abra o endereço indicado pelo Wrangler. Não é necessário criar conta Cloudfl
 - Apelido e quatro avatares, sem e-mail ou login.
 - Quatro trilhas, três missões em cada, com decisões, cenas de seleção múltipla e classificação.
 - 10 pontos por resposta adequada na primeira tentativa; máximo 120.
-- Tentativas ilimitadas para concluir. Repetição não recupera pontos nem duplica conquistas.
+- Uma resposta por missão. Após o feedback, avance mesmo se errar; erros não pontuam e ficam no resumo para revisão.
 - Missões em sequência dentro de cada ambiente; todos os ambientes disponíveis desde o início.
 - Distintivo por ambiente e conquista final.
 - Progresso e reflexão salvos em `localStorage`, no mesmo navegador.
