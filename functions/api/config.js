@@ -1,0 +1,1 @@
+export function onRequestGet({env}) {return Response.json({emailDisponivel:!!(env.RESEND_API_KEY&&env.EMAIL_FROM&&env.TURNSTILE_SECRET_KEY&&env.TURNSTILE_SITE_KEY),siteKey:env.TURNSTILE_SITE_KEY||''},{headers:{'Cache-Control':'no-store'}})}
