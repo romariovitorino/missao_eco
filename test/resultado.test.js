@@ -1,0 +1,6 @@
+import {test} from 'node:test';import assert from 'node:assert/strict';import {avaliar,missoes} from '../public/missoes.js';import {onRequestPost} from '../functions/api/resultado.js';
+test('seis escolhas corretas geram 60 pontos e três ações',()=>{const r=avaliar(missoes.map(m=>m.correta));assert.equal(r.pontos,60);assert.equal(r.prioridades.length,3)});
+test('erros não pontuam e recomendações priorizam revisão',()=>{const respostas=missoes.map(m=>m.correta);respostas[4]=1;const r=avaliar(respostas);assert.equal(r.pontos,50);assert.equal(r.prioridades[0],missoes[4].acao)});
+test('não aceita respostas ausentes, fora do intervalo ou textuais',()=>{for(const r of [[],[0,0,0,0,0,3],['0',0,0,0,0,0]])assert.throws(()=>avaliar(r))});
+test('envio não configurado não simula sucesso',async()=>{const response=await onRequestPost({request:new Request('https://eco.example/api/resultado',{method:'POST'}),env:{}});assert.equal(response.status,503)});
+test('envio externo é bloqueado',async()=>{const response=await onRequestPost({request:new Request('https://eco.example/api/resultado',{method:'POST',headers:{origin:'https://outra.example'}}),env:{RESEND_API_KEY:'test',EMAIL_FROM:'test',TURNSTILE_SECRET_KEY:'test'}});assert.equal(response.status,403)});
